@@ -7,5 +7,5 @@ print(requests.__version__)
 r = requests.get("http://google.com")
 print(r.status_code)
 
-r = requests.get("https://gist.githubusercontent.com/qasimy123/2ae16c2de74725cb2d0d947ed5d96164/raw/downloaditself.py")
+r = requests.get("https://raw.githubusercontent.com/qasimy123/CMPUT404Lab1/main/script.py")
 print(r.text)

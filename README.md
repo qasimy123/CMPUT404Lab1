@@ -2,7 +2,7 @@
 
 ## Question 1: What is your GitHub URL?
 
-_https://github.com/qasimy123/CMPUT404Lab1_
+https://github.com/qasimy123/CMPUT404Lab1
 
 ## Question 2: What version is the requests library installed on the system?
 2.24.0
@@ -29,4 +29,4 @@ It is useful for sending data to the server.
 
 ## Question 8: What is the raw URL to your Python script on GitHub?
 
-https://gist.githubusercontent.com/qasimy123/2ae16c2de74725cb2d0d947ed5d96164/raw/downloaditself.py
+https://raw.githubusercontent.com/qasimy123/CMPUT404Lab1/main/script.py
